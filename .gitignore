@@ -1,0 +1,26 @@
+# Зависимости для разрабротки
+node_modules
+**/node_modules
+
+# Продакшн
+dist/
+typings/
+tsconfig.tsbuildinfo
+
+# Логи-хуёги
+logs
+!src/functions/logs
+*.log
+
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Шлак
+.tmp/
+.env
+.idea
+.DS_STORE
+.vscode

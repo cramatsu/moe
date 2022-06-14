@@ -1,0 +1,3 @@
+src/interactions/ArgumentsOf.ts @iCrawl
+src/interactions/InteractionOptions.ts @iCrawl
+src/lib/struct/websocket/WebSocketManager.ts @iCrawl @cramatsu
